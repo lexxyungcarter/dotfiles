@@ -9,7 +9,7 @@ Ensure you have [ZSH](https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e) in
 Copy **.zshrc** file to our home folder
 As for this specific file, [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme has been used. Integrates well vith [vscode](https://code.visualstudio.com). More styling can be found [here](https://github.com/bhilburn/powerlevel9k/wiki/Stylizing-Your-Prompt)
  Sample terminal output has been attached here.
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/lexxyungcarter/dotfiles/blob/master/lexx-oh-my-zsh-terminal.png)
 
 
 ## .aliases
