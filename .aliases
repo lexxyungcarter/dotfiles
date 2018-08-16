@@ -64,6 +64,7 @@ alias bd='. ~/bin/bd -s'
 # home folder navigation Shortcuts
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
+alias ds="cd ~/Sites"
 
 # Laravel Web Dev
 alias pa="php artisan"
@@ -82,3 +83,11 @@ alias nrd="npm run dev"
 alias nrw="npm run watch"
 alias nrb="npm run build"
 alias nrp="npm run production"
+
+# NWIDARD Modules
+alias pamm="php artisan module:migrate"
+alias pammg="php artisan module:make-migration"
+alias pamp="php artisan module:publish"
+alias pampc="php artisan module:publish-config -f"
+alias pammc="php artisan module:make-command"
+alias pammd="php artisan module:make-model"
